@@ -11,3 +11,7 @@ An implementation of Conway's Game of Life in Microsoft Excel.
 
 ### [School Grades Data Analysis Bot](https://github.com/mateo-velez/school-grades-data-analysis)
 An implementation a data pipeline to clean school data. And a Gemini bot to help analyze it.
+
+
+### [ELT pipeline](https://github.com/mateo-velez/dbt-gcp-dagster-etl-pipeline)
+A ELT pipeline built with dbt, dagster and gcp.
